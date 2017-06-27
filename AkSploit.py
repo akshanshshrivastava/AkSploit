@@ -1,12 +1,7 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+#Developed by Akshansh Shrivastava
+
 from __future__ import division
-
-
-
-
-
-
 try:
     import urllib.request as urllib2
 except ImportError:
